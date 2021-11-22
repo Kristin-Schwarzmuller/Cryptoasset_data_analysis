@@ -55,6 +55,13 @@
 264,KSM,Kusama
 267,LEND,EthLend
 272,LINK,ChainLink
+277,LRC,Loopring
+278,LSK,Lisk
+279,LTC,Litecoin
+281,LUNA,Terra
+283,MANA,Decentraland
+284,MATIC,Polygon
+288,MCO,Monaco
 299,MITH,Mithril
 300,MKR,Maker
 301,MLN,Melon
@@ -67,7 +74,6 @@
 351,ONT,Ontology
 390,QTUM,Qtum
 403,REP,Augur
-404,REQ,Request-Network
 408,RLC,RLC-Token
 413,RUNE,THORChain
 421,SC,Siacoin
@@ -90,6 +96,8 @@
 537,XEM,NEM
 541,XLM,Stellar
 543,XMR,Monero
+548,XRP,Ripple
+551,XTZ,Tezos
 554,XVG,Verge
 556,XZC,ZCoin
 563,ZEC,Zcash
